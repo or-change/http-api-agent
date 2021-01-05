@@ -18,7 +18,7 @@
   "homepage": "https://github.com/or-change/http-api-agent#readme",
   "dependencies": {
     "@or-change/tdk": "^0.1.2",
-    "axios": "^0.19.0",
+    "axios": "^0.21.1",
     "cookiejar": "^2.1.2"
   },
   "files": [
